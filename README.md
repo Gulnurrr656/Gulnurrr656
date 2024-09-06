@@ -4,10 +4,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Цифровое агентство FutureEye: создание сайтов, автоматизация бизнеса, соцсети и продвижение бизнеса через Digital Marketing.">
+    <meta name="description" content="Цифровое агентство FutureAi: создание сайтов, автоматизация бизнеса, соцсети и продвижение бизнеса через Digital Marketing.">
     <meta name="keywords" content="digital marketing, создание сайтов, соцсети, боты, продвижение, Instagram, TikTok, Telegram, SEO, контекстная реклама">
-    <meta name="author" content="FutureФш Digital Marketing Agency">
-    <title>FutureEye Digital Marketing Agency</title>
+    <meta name="author" content="FutureAi Digital Marketing Agency">
+    <title>FutureAi Digital Marketing Agency</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -67,8 +67,8 @@
 <body>
 
 <header>
-    <img src="/mnt/data/2BAFFD5F-8438-4020-B1C4-6346E9F0B897.jpeg" alt="FutureEye Logo">
-    <h1>Цифровое Агентство FutureEye</h1>
+    <img src="/mnt/data/2BAFFD5F-8438-4020-B1C4-6346E9F0B897.jpeg" alt="логотип наш">
+    <h1>Цифровое Агентство FutureAi</h1>
     <p>Создаем прибыльный бизнес через Digital Marketing</p>
 </header>
 
