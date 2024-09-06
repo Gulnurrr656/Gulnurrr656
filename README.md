@@ -67,7 +67,7 @@
 <body>
 
 <header>
-    <img src="/mnt/data/2BAFFD5F-8438-4020-B1C4-6346E9F0B897.jpeg" alt="логотип наш">
+    <img src="/mnt/data/2BAFFD5F-8438-4020-B1C4-6346E9F0B897.jpeg" alt="логотип наш.png">
     <h1>Цифровое Агентство FutureAi</h1>
     <p>Создаем прибыльный бизнес через Digital Marketing</p>
 </header>
